@@ -1,5 +1,7 @@
 ### 안녕하세요, 박시윤입니다 👋
 
+데이터에서 인사이트를 찾아 프로덕트 개선과 비즈니스 성장을 이끌고자 합니다
+
 #### 언어 및 도구
 `Python` `SQL` `Oracle` `MySQL` `Grafana` `Django` `HTML` `CSS` `JavaScript`
 
@@ -14,4 +16,3 @@
 | **ML/DL** | ⛅ SMOTE를 활용한 XGBoost 기반 안개 예측 모델 개발 |  | [🔗](https://github.com/sparky1543/weather-fog) |
 | **Web Development** | 🏭 SaaS 기반 AI 제조 공정 최적화 시스템 | BDIA Dev Contest 미래창업가상 | [🔗](https://github.com/sparky1543/isix-project) |
 | **Web Development** | 🩺 AI 진단 및 맞춤형 질병 예측 서비스 | BDIA Hackathon 네이버클라우드상 | [🔗](https://github.com/sparky1543/smart-doctor) |
-
