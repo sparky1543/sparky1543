@@ -13,5 +13,5 @@
 | **Machine/Deep Learning** | ⚙️ LSTM 기반 수요 예측을 통한 생산 계획 최적화 | BDIA Dev Contest 미래창업가상 | [🔗](https://github.com/sparky1543/prod-planning) |
 | **Machine/Deep Learning** | ⛅ SMOTE를 활용한 XGBoost 기반 안개 예측 모델 개발 |  | [🔗](https://github.com/sparky1543/weather-fog) |
 | **Web Development** | 🏭 SaaS 기반 AI 제조 공정 최적화 시스템 | BDIA Dev Contest 미래창업가상 | [🔗](https://github.com/sparky1543/isix-project) |
-| **Web Development** | 🩺 Clova Studio 기반 AI 진단 및 맞춤형 질병 예측 서비스 | BDIA Hackathon 네이버클라우드 트랙상 | [🔗](https://github.com/sparky1543/smart-doctor) |
+| **Web Development** | 🩺 AI 진단 및 맞춤형 질병 예측 서비스 | BDIA Hackathon 네이버클라우드 트랙상 | [🔗](https://github.com/sparky1543/smart-doctor) |
 
