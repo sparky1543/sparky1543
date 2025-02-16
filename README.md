@@ -1,7 +1,7 @@
 ### 안녕하세요, 박시윤입니다 👋
 
 #### 언어 및 도구
-`Python` `SQL` `Grafana` `Django` `HTML` `CSS` `JavaScript`
+`Python` `SQL` `Grafana` `Django` `HTML` `CSS` `JavaScript` `Notion` `Slack`
 
 #### 프로젝트
 
