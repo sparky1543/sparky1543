@@ -1,4 +1,4 @@
-### Hi, I'm Siyoon Park 👋
+### Hello, I'm Siyoon Park 👋
 
 #### About me
 
