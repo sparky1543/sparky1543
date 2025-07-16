@@ -38,4 +38,10 @@
 2. [AI 진단 및 맞춤형 질병 예측 서비스 🏆](https://github.com/sparky1543/smart-doctor)
   - Clova Studio를 활용한 AI 진단 및 맞춤형 질병 예측 서비스
 
+#### Automation Tools
 
+1. [OpenAPI CALL 데이터 추출 도구](https://github.com/sparky1543/openapi-call)
+  - 공공데이터포털 OpenAPI를 누구나 쉽게 조회·저장할 수 있도록 만든 프로그램
+
+2. [기관별 공공데이터 목록 자동 수집기](https://github.com/sparky1543/public-data-crawler)
+  - 기관명을 입력하면 공공데이터 목록을 자동 수집하는 웹 크롤링 프로그램
