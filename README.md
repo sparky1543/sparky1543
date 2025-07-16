@@ -1,6 +1,11 @@
-## 박시윤 Siyoon Park 👋
+### Hi there 👋
 
-### Tech Stack
+#### About me
+
+- 고객 데이터를 분석해 숨겨진 행동 패턴을 발견하고 제품과 비즈니스가 **성장할 수 있는 인사이트**를 찾아냅니다.
+- AI와 다양한 도구를 활용해 사용자들의 **불편함을 편리함으로** 바꾸는 일에도 관심이 많습니다.
+
+#### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=3776AB)
 ![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1)
@@ -10,9 +15,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-
-### Project
 
 #### Data Analysis
 
@@ -24,24 +26,17 @@
 
 #### Machine/Deep Learning
 
-1. [부산 지하철 유휴공간 스마트팜 입지 분석 🏆](https://github.com/sparky1543/metro-farm)
+1. [부산 지하철 유휴공간 스마트팜 입지 분석](https://github.com/sparky1543/metro-farm)
   - 부산 지하철 유휴공간 활용을 위한 입지 분석 및 스마트팜 서비스 제안
 
-2. [수요 예측을 통한 생산 계획 최적화 🏆](https://github.com/sparky1543/prod-planning)
+2. [수요 예측을 통한 생산 계획 최적화](https://github.com/sparky1543/prod-planning)
   - LSTM 모델을 활용한 부품 발주 수량 예측 및 생산 계획 최적화 시스템 개발
 
-#### Web Development
-
-1. [SaaS 기반 AI 제조 공정 최적화 시스템 🏆](https://github.com/sparky1543/isix-project)
-  - 중소기업을 위한 데이터 기반 제조 공정 최적화 SaaS 시스템
-
-2. [AI 진단 및 맞춤형 질병 예측 서비스 🏆](https://github.com/sparky1543/smart-doctor)
-  - Clova Studio를 활용한 AI 진단 및 맞춤형 질병 예측 서비스
 
 #### Automation Tools
 
 1. [OpenAPI CALL 데이터 추출 도구](https://github.com/sparky1543/openapi-call)
-  - 공공데이터포털 OpenAPI를 누구나 쉽게 조회·저장할 수 있도록 만든 프로그램
+  - 공공데이터포털의 OpenAPI를 누구나 손쉽게 조회하고 저장할 수 있는 프로그램
 
 2. [기관별 공공데이터 목록 자동 수집기](https://github.com/sparky1543/public-data-crawler)
   - 기관명을 입력하면 공공데이터 목록을 자동 수집하는 웹 크롤링 프로그램
